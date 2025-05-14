@@ -19,7 +19,7 @@ const DestinationsSubItems: NavItemType[] = [
 
 	{
 		id: randomId(),
-		href: '/search',
+		href: '/',
 		name: 'Qatar',
 	},
 
