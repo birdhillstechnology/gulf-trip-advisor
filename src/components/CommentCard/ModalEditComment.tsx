@@ -2,7 +2,8 @@
 
 import React, { FC, useEffect, useRef } from "react";
 import NcModal from "@/components/NcModal/NcModal";
-import SingleCommentForm from "@/app/(singles)/SingleCommentForm";
+import SingleCommentForm from "./SingleCommentForm";
+// import SingleCommentForm from "@/app/(singles)/SingleCommentForm";
 
 export interface ModalEditCommentProps {
   show: boolean;

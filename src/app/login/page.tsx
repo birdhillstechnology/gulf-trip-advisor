@@ -3,27 +3,6 @@ import SocialLogin from '@/components/elements/SocialLogin'
 import Heading2 from '@/components/Heading/Heading2'
 import Input from '@/components/Input/Input'
 import NcLink from '@/components/NcLink/NcLink'
-import facebookSvg from '@/images/Facebook.svg'
-import googleSvg from '@/images/Google.svg'
-import twitterSvg from '@/images/Twitter.svg'
-
-const loginSocials = [
-	{
-		name: 'Continue with Facebook',
-		href: '#',
-		icon: facebookSvg,
-	},
-	{
-		name: 'Continue with Twitter',
-		href: '#',
-		icon: twitterSvg,
-	},
-	{
-		name: 'Continue with Google',
-		href: '#',
-		icon: googleSvg,
-	},
-]
 
 const PageLogin = ({}) => {
 	return (
