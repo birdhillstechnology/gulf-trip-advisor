@@ -1,7 +1,7 @@
 'use client'
-import facebookSvg from '@/images/facebook.svg'
-import googleSvg from '@/images/google.svg'
-import Image from 'next/image'
+import Image from 'next/image';
+import facebookSvg from '../../images/facebook.svg';
+import googleSvg from '../../images/google.svg';
 
 const loginSocials = [
 	{
